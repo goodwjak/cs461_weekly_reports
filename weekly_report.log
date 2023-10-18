@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.16)  17 OCT 2023 16:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.16)  17 OCT 2023 17:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -140,54 +140,62 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 42.
+(Font)              <12> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 42.
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 61.
 
-Overfull \hbox (33.73512pt too wide) in paragraph at lines 42--54
-[] 
- []
-
-
-Overfull \hbox (128.06325pt too wide) in paragraph at lines 82--91
+Overfull \hbox (33.73512pt too wide) in paragraph at lines 61--73
 [] 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (128.06325pt too wide) in paragraph at lines 93--102
-[] 
- []
-
-
-Overfull \hbox (33.73512pt too wide) in paragraph at lines 104--113
+Overfull \hbox (128.06325pt too wide) in paragraph at lines 101--110
 [] 
  []
 
 [2]
+Overfull \hbox (128.06325pt too wide) in paragraph at lines 112--121
+[] 
+ []
+
+
+Overfull \hbox (33.73512pt too wide) in paragraph at lines 123--132
+[] 
+ []
+
+[3]
 (/home/ronin/Documents/classes/2023/fall/cs461/cs461_weekly_reports/weekly_repo
 rt.aux) )
 (\end occurred inside a group at level 2)
 
-### simple group (level 2) entered at line 61 ({)
-### simple group (level 1) entered at line 41 ({)
+### simple group (level 2) entered at line 80 ({)
+### simple group (level 1) entered at line 60 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 1941 strings out of 478287
- 30020 string characters out of 5849289
- 335804 words of memory out of 5000000
- 20165 multiletter control sequences out of 15000+600000
- 470469 words of font info for 32 fonts, out of 8000000 for 9000
+ 1963 strings out of 478287
+ 30252 string characters out of 5849289
+ 334802 words of memory out of 5000000
+ 20178 multiletter control sequences out of 15000+600000
+ 473514 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,62p,457b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,9n,62p,502b,199s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
-fb>
-Output written on weekly_report.pdf (2 pages, 36973 bytes).
+mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on weekly_report.pdf (3 pages, 79693 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
- 12 compressed objects within 1 object stream
+ 39 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
